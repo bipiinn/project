@@ -13,7 +13,7 @@ lets start working
 
 ## Installation - Angular
 1. Navigate your CLI to where you want to clone the repository
-2. Run `git clone https://github.com/bipinn/COMP229_Group_Project.git`
+2. Run `git clone https://github.com/bipiinn/COMP229_Group_Project.git`
 3. Navigate your CLI into the `COMP229_Group_Project/Client` folder
 3. Install packages using `npm install`
 
